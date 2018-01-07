@@ -1,0 +1,1213 @@
+[WRN][1515361148.8972523212] /root/.oh-my-zsh/custom/themes/antigen.zsh:266
+[WRN][1515361148.8972523212] -antigen-interactive-mode: toplevel:file:file:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[TRA][1515361148.8973736763] /root/.oh-my-zsh/custom/themes/antigen.zsh:475
+[TRA][1515361148.8973736763] Gonna create compdump file @ env-setup COMPDUMP
+[TRA][1515361148.8973736763] TRACE
+-antigen-env-setup
+/root/.oh-my-zsh/custom/themes/antigen.zsh
+/root/.zshrc
+[TRA][1515361149.2689566612] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515361149.2689566612] Called antigen-bundle with --loc=lib BUNDLE
+[TRA][1515361149.2689566612] TRACE
+antigen-bundle
+-antigen-use-oh-my-zsh
+antigen-use
+antigen
+/root/.zshrc
+[WRN][1515361193.2155756950] /root/.oh-my-zsh/custom/themes/antigen.zsh:266
+[WRN][1515361193.2155756950] -antigen-interactive-mode: toplevel:file:file:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[TRA][1515361193.2156562805] /root/.oh-my-zsh/custom/themes/antigen.zsh:475
+[TRA][1515361193.2156562805] Gonna create compdump file @ env-setup COMPDUMP
+[TRA][1515361193.2156562805] TRACE
+-antigen-env-setup
+/root/.oh-my-zsh/custom/themes/antigen.zsh
+/root/.zshrc
+[TRA][1515361193.2334716320] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515361193.2334716320] Called antigen-bundle with --loc=lib BUNDLE
+[TRA][1515361193.2334716320] TRACE
+antigen-bundle
+-antigen-use-oh-my-zsh
+antigen-use
+antigen
+/root/.zshrc
+[WRN][1515361274.0785152912] /root/.oh-my-zsh/custom/themes/antigen.zsh:266
+[WRN][1515361274.0785152912] -antigen-interactive-mode: toplevel:file:file:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[TRA][1515361274.0786042213] /root/.oh-my-zsh/custom/themes/antigen.zsh:475
+[TRA][1515361274.0786042213] Gonna create compdump file @ env-setup COMPDUMP
+[TRA][1515361274.0786042213] TRACE
+-antigen-env-setup
+/root/.oh-my-zsh/custom/themes/antigen.zsh
+/root/.zshrc
+[TRA][1515361274.0959777832] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515361274.0959777832] Called antigen-bundle with --loc=lib BUNDLE
+[TRA][1515361274.0959777832] TRACE
+antigen-bundle
+-antigen-use-oh-my-zsh
+antigen-use
+antigen
+/root/.zshrc
+[TRA][1515361274.0975749493] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515361274.0975749493] Called antigen-bundle with https://github.com/denysdovhan/spaceship-zsh-theme spaceship --btype=theme BUNDLE
+[TRA][1515361274.0975749493] TRACE
+antigen-bundle
+antigen-theme
+antigen
+/root/.zshrc
+[TRA][1515361345.5955011845] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515361345.5955011845] Called antigen-bundle with git BUNDLE
+[TRA][1515361345.5955011845] TRACE
+antigen-bundle
+antigen
+[WRN][1515361351.3193407059] /root/.oh-my-zsh/custom/themes/antigen.zsh:266
+[WRN][1515361351.3193407059] -antigen-interactive-mode: toplevel:file:file:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[TRA][1515361351.3194248676] /root/.oh-my-zsh/custom/themes/antigen.zsh:475
+[TRA][1515361351.3194248676] Gonna create compdump file @ env-setup COMPDUMP
+[TRA][1515361351.3194248676] TRACE
+-antigen-env-setup
+/root/.oh-my-zsh/custom/themes/antigen.zsh
+/root/.zshrc
+[TRA][1515361351.3375875950] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515361351.3375875950] Called antigen-bundle with --loc=lib BUNDLE
+[TRA][1515361351.3375875950] TRACE
+antigen-bundle
+-antigen-use-oh-my-zsh
+antigen-use
+antigen
+/root/.zshrc
+[TRA][1515361351.3391656876] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515361351.3391656876] Called antigen-bundle with https://github.com/denysdovhan/spaceship-zsh-theme spaceship --btype=theme BUNDLE
+[TRA][1515361351.3391656876] TRACE
+antigen-bundle
+antigen-theme
+antigen
+/root/.zshrc
+[WRN][1515361404.5936331749] /root/.oh-my-zsh/custom/themes/antigen.zsh:266
+[WRN][1515361404.5936331749] -antigen-interactive-mode: toplevel:file:file:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[TRA][1515361404.5937194824] /root/.oh-my-zsh/custom/themes/antigen.zsh:475
+[TRA][1515361404.5937194824] Gonna create compdump file @ env-setup COMPDUMP
+[TRA][1515361404.5937194824] TRACE
+-antigen-env-setup
+/root/.oh-my-zsh/custom/themes/antigen.zsh
+/root/.zshrc
+[TRA][1515361404.6129536629] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515361404.6129536629] Called antigen-bundle with --loc=lib BUNDLE
+[TRA][1515361404.6129536629] TRACE
+antigen-bundle
+-antigen-use-oh-my-zsh
+antigen-use
+antigen
+/root/.zshrc
+[TRA][1515361404.6145234108] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515361404.6145234108] Called antigen-bundle with https://github.com/denysdovhan/spaceship-zsh-theme spaceship --btype=theme BUNDLE
+[TRA][1515361404.6145234108] TRACE
+antigen-bundle
+antigen-theme
+antigen
+/root/.zshrc
+[WRN][1515361540.8560836315] /root/.oh-my-zsh/custom/themes/antigen.zsh:266
+[WRN][1515361540.8560836315] -antigen-interactive-mode: toplevel:file:file:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[TRA][1515361540.8561794758] /root/.oh-my-zsh/custom/themes/antigen.zsh:475
+[TRA][1515361540.8561794758] Gonna create compdump file @ env-setup COMPDUMP
+[TRA][1515361540.8561794758] TRACE
+-antigen-env-setup
+/root/.oh-my-zsh/custom/themes/antigen.zsh
+/root/.zshrc
+[TRA][1515361540.8739099503] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515361540.8739099503] Called antigen-bundle with --loc=lib BUNDLE
+[TRA][1515361540.8739099503] TRACE
+antigen-bundle
+-antigen-use-oh-my-zsh
+antigen-use
+antigen
+/root/.zshrc
+[TRA][1515361540.8760790825] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515361540.8760790825] Called antigen-bundle with https://github.com/denysdovhan/spaceship-zsh-theme spaceship --btype=theme BUNDLE
+[TRA][1515361540.8760790825] TRACE
+antigen-bundle
+antigen-theme
+antigen
+/root/.zshrc
+[WRN][1515361567.5289103985] /root/.oh-my-zsh/custom/themes/antigen.zsh:266
+[WRN][1515361567.5289103985] -antigen-interactive-mode: toplevel:file:file:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[TRA][1515361567.5290017128] /root/.oh-my-zsh/custom/themes/antigen.zsh:475
+[TRA][1515361567.5290017128] Gonna create compdump file @ env-setup COMPDUMP
+[TRA][1515361567.5290017128] TRACE
+-antigen-env-setup
+/root/.oh-my-zsh/custom/themes/antigen.zsh
+/root/.zshrc
+[TRA][1515361567.5467422009] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515361567.5467422009] Called antigen-bundle with --loc=lib BUNDLE
+[TRA][1515361567.5467422009] TRACE
+antigen-bundle
+-antigen-use-oh-my-zsh
+antigen-use
+antigen
+/root/.zshrc
+[TRA][1515361567.5488016605] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515361567.5488016605] Called antigen-bundle with https://github.com/denysdovhan/spaceship-zsh-theme spaceship --btype=theme BUNDLE
+[TRA][1515361567.5488016605] TRACE
+antigen-bundle
+antigen-theme
+antigen
+/root/.zshrc
+[WRN][1515361599.0405027866] /root/.oh-my-zsh/custom/themes/antigen.zsh:266
+[WRN][1515361599.0405027866] -antigen-interactive-mode: toplevel:file:file:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[TRA][1515361599.0405855179] /root/.oh-my-zsh/custom/themes/antigen.zsh:475
+[TRA][1515361599.0405855179] Gonna create compdump file @ env-setup COMPDUMP
+[TRA][1515361599.0405855179] TRACE
+-antigen-env-setup
+/root/.oh-my-zsh/custom/themes/antigen.zsh
+/root/.zshrc
+[TRA][1515361599.0574858189] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515361599.0574858189] Called antigen-bundle with --loc=lib BUNDLE
+[TRA][1515361599.0574858189] TRACE
+antigen-bundle
+-antigen-use-oh-my-zsh
+antigen-use
+antigen
+/root/.zshrc
+[TRA][1515361599.0590121746] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515361599.0590121746] Called antigen-bundle with https://github.com/denysdovhan/spaceship-zsh-theme spaceship --btype=theme BUNDLE
+[TRA][1515361599.0590121746] TRACE
+antigen-bundle
+antigen-theme
+antigen
+/root/.zshrc
+[WRN][1515361681.6915690899] /root/.oh-my-zsh/custom/themes/antigen.zsh:266
+[WRN][1515361681.6915690899] -antigen-interactive-mode: toplevel:file:file:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[TRA][1515361681.6916625500] /root/.oh-my-zsh/custom/themes/antigen.zsh:475
+[TRA][1515361681.6916625500] Gonna create compdump file @ env-setup COMPDUMP
+[TRA][1515361681.6916625500] TRACE
+-antigen-env-setup
+/root/.oh-my-zsh/custom/themes/antigen.zsh
+/root/.zshrc
+[TRA][1515361681.7101285458] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515361681.7101285458] Called antigen-bundle with --loc=lib BUNDLE
+[TRA][1515361681.7101285458] TRACE
+antigen-bundle
+-antigen-use-oh-my-zsh
+antigen-use
+antigen
+/root/.zshrc
+[TRA][1515361681.7117600441] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515361681.7117600441] Called antigen-bundle with https://github.com/denysdovhan/spaceship-zsh-theme spaceship --btype=theme BUNDLE
+[TRA][1515361681.7117600441] TRACE
+antigen-bundle
+antigen-theme
+antigen
+/root/.zshrc
+[WRN][1515361705.9923605919] /root/.oh-my-zsh/custom/themes/antigen.zsh:266
+[WRN][1515361705.9923605919] -antigen-interactive-mode: file:file:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[WRN][1515361705.9926235676] /root/.oh-my-zsh/custom/themes/antigen.zsh:1572
+[WRN][1515361705.9926235676] -antigen-lock-init return code was 0
+[LOG][1515361705.9926760197] /root/.oh-my-zsh/custom/themes/antigen.zsh:1574
+[LOG][1515361705.9926760197] LOADED EXTENSION lock EXT
+[WRN][1515361705.9942362309] /root/.oh-my-zsh/custom/themes/antigen.zsh:1684
+[WRN][1515361705.9942362309] Init parallel extension PARALLEL
+[WRN][1515361705.9943377972] /root/.oh-my-zsh/custom/themes/antigen.zsh:266
+[WRN][1515361705.9943377972] -antigen-interactive-mode: file:file:shfunc:shfunc:shfunc:eval:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[WRN][1515361705.9944224358] /root/.oh-my-zsh/custom/themes/antigen.zsh:1572
+[WRN][1515361705.9944224358] -antigen-parallel-init return code was 0
+[LOG][1515361705.9944670200] /root/.oh-my-zsh/custom/themes/antigen.zsh:1574
+[LOG][1515361705.9944670200] LOADED EXTENSION parallel EXT
+[WRN][1515361705.9945111275] /root/.oh-my-zsh/custom/themes/antigen.zsh:1692
+[WRN][1515361705.9945111275] Exec parallel extension PARALLEL
+[WRN][1515361705.9947483540] /root/.oh-my-zsh/custom/themes/antigen.zsh:266
+[WRN][1515361705.9947483540] -antigen-interactive-mode: file:file:shfunc:shfunc:shfunc:eval:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[WRN][1515361705.9948203564] /root/.oh-my-zsh/custom/themes/antigen.zsh:1572
+[WRN][1515361705.9948203564] -antigen-defer-init return code was 0
+[LOG][1515361705.9948623180] /root/.oh-my-zsh/custom/themes/antigen.zsh:1574
+[LOG][1515361705.9948623180] LOADED EXTENSION defer EXT
+[WRN][1515361705.9957437515] /root/.oh-my-zsh/custom/themes/antigen.zsh:266
+[WRN][1515361705.9957437515] -antigen-interactive-mode: file:file:shfunc:shfunc:shfunc:eval:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[WRN][1515361705.9959349632] /root/.oh-my-zsh/custom/themes/antigen.zsh:1572
+[WRN][1515361705.9959349632] -antigen-cache-init return code was 0
+[LOG][1515361705.9959828854] /root/.oh-my-zsh/custom/themes/antigen.zsh:1574
+[LOG][1515361705.9959828854] LOADED EXTENSION cache EXT
+[WRN][1515361705.9975218773] /root/.oh-my-zsh/custom/themes/antigen.zsh:1469
+[WRN][1515361705.9975218773] Updated meta: target antigen mode once type pre called 1
+[WRN][1515361705.9975929260] /root/.oh-my-zsh/custom/themes/antigen.zsh:1484
+[WRN][1515361705.9975929260] Processing hooks: antigen-lock
+[WRN][1515361705.9976422787] /root/.oh-my-zsh/custom/themes/antigen.zsh:1487
+[WRN][1515361705.9976422787] Pre hook: antigen-lock use oh-my-zsh
+[LOG][1515361705.9976880550] /root/.oh-my-zsh/custom/themes/antigen.zsh:4
+[LOG][1515361705.9976880550] antigen-lock called
+[WRN][1515361705.9977362156] /root/.oh-my-zsh/custom/themes/antigen.zsh:15
+[WRN][1515361705.9977362156] Creating antigen-lock file at /root/.antigen/.lock
+[WRN][1515361706.0012013912] /root/.oh-my-zsh/custom/themes/antigen.zsh:1505
+[WRN][1515361706.0012013912] -antigen-hook-antigen use oh-my-zsh
+[WRN][1515361706.0014061928] /root/.oh-my-zsh/custom/themes/antigen.zsh:1469
+[WRN][1515361706.0014061928] Updated meta: target antigen-bundle mode repeat type replace called 1
+[WRN][1515361706.0014960766] /root/.oh-my-zsh/custom/themes/antigen.zsh:1469
+[WRN][1515361706.0014960766] Updated meta: target antigen-bundle mode repeat type pre called 1
+[WRN][1515361706.0015521049] /root/.oh-my-zsh/custom/themes/antigen.zsh:1484
+[WRN][1515361706.0015521049] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1515361706.0015966892] /root/.oh-my-zsh/custom/themes/antigen.zsh:1487
+[WRN][1515361706.0015966892] Pre hook: antigen-bundle-cached --loc=lib
+[WRN][1515361706.0016794205] /root/.oh-my-zsh/custom/themes/antigen.zsh:1498
+[WRN][1515361706.0016794205] Replace hook: antigen-bundle-defer --loc=lib
+[WRN][1515361706.0017447472] /root/.oh-my-zsh/custom/themes/antigen.zsh:1500
+[WRN][1515361706.0017447472] antigen-bundle-defer shortcircuited
+[LOG][1515361706.0018460751] /root/.oh-my-zsh/custom/themes/antigen.zsh:1518
+[LOG][1515361706.0018460751] Return from hook antigen with 0
+[WRN][1515361706.0019834042] /root/.oh-my-zsh/custom/themes/antigen.zsh:1462
+[WRN][1515361706.0019834042] Ignoring hook due to mode once: antigen-lock
+[WRN][1515361706.0020279884] /root/.oh-my-zsh/custom/themes/antigen.zsh:1484
+[WRN][1515361706.0020279884] Processing hooks: antigen-lock
+[WRN][1515361706.0020756721] /root/.oh-my-zsh/custom/themes/antigen.zsh:1505
+[WRN][1515361706.0020756721] -antigen-hook-antigen theme https://github.com/denysdovhan/spaceship-zsh-theme spaceship
+[WRN][1515361706.0034253597] /root/.oh-my-zsh/custom/themes/antigen.zsh:1469
+[WRN][1515361706.0034253597] Updated meta: target antigen-bundle mode repeat type replace called 2
+[WRN][1515361706.0035338402] /root/.oh-my-zsh/custom/themes/antigen.zsh:1469
+[WRN][1515361706.0035338402] Updated meta: target antigen-bundle mode repeat type pre called 2
+[WRN][1515361706.0035889149] /root/.oh-my-zsh/custom/themes/antigen.zsh:1484
+[WRN][1515361706.0035889149] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1515361706.0036339760] /root/.oh-my-zsh/custom/themes/antigen.zsh:1487
+[WRN][1515361706.0036339760] Pre hook: antigen-bundle-cached https://github.com/denysdovhan/spaceship-zsh-theme spaceship --btype=theme
+[WRN][1515361706.0037174225] /root/.oh-my-zsh/custom/themes/antigen.zsh:1498
+[WRN][1515361706.0037174225] Replace hook: antigen-bundle-defer https://github.com/denysdovhan/spaceship-zsh-theme spaceship --btype=theme
+[WRN][1515361706.0037858486] /root/.oh-my-zsh/custom/themes/antigen.zsh:1500
+[WRN][1515361706.0037858486] antigen-bundle-defer shortcircuited
+[LOG][1515361706.0038895607] /root/.oh-my-zsh/custom/themes/antigen.zsh:1518
+[LOG][1515361706.0038895607] Return from hook antigen with 0
+[WRN][1515361869.2812886238] /root/.oh-my-zsh/custom/themes/antigen.zsh:266
+[WRN][1515361869.2812886238] -antigen-interactive-mode: toplevel:file:file:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[TRA][1515361869.2813670635] /root/.oh-my-zsh/custom/themes/antigen.zsh:475
+[TRA][1515361869.2813670635] Gonna create compdump file @ env-setup COMPDUMP
+[TRA][1515361869.2813670635] TRACE
+-antigen-env-setup
+/root/.oh-my-zsh/custom/themes/antigen.zsh
+/root/.zshrc
+[TRA][1515361869.3292191029] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515361869.3292191029] Called antigen-bundle with --loc=lib BUNDLE
+[TRA][1515361869.3292191029] TRACE
+antigen-bundle
+-antigen-use-oh-my-zsh
+antigen-use
+antigen
+/root/.zshrc
+[TRA][1515361869.3518037796] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515361869.3518037796] Called antigen-bundle with https://github.com/denysdovhan/spaceship-zsh-theme spaceship --btype=theme BUNDLE
+[TRA][1515361869.3518037796] TRACE
+antigen-bundle
+antigen-theme
+antigen
+/root/.zshrc
+[WRN][1515361878.1047122478] /root/.oh-my-zsh/custom/themes/antigen.zsh:266
+[WRN][1515361878.1047122478] -antigen-interactive-mode: toplevel:file:file:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[TRA][1515361878.1048007011] /root/.oh-my-zsh/custom/themes/antigen.zsh:475
+[TRA][1515361878.1048007011] Gonna create compdump file @ env-setup COMPDUMP
+[TRA][1515361878.1048007011] TRACE
+-antigen-env-setup
+/root/.oh-my-zsh/custom/themes/antigen.zsh
+/root/.zshrc
+[TRA][1515361878.3094124794] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515361878.3094124794] Called antigen-bundle with --loc=lib BUNDLE
+[TRA][1515361878.3094124794] TRACE
+antigen-bundle
+-antigen-use-oh-my-zsh
+antigen-use
+antigen
+/root/.zshrc
+[TRA][1515361878.3109612465] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515361878.3109612465] Called antigen-bundle with https://github.com/denysdovhan/spaceship-zsh-theme spaceship --btype=theme BUNDLE
+[TRA][1515361878.3109612465] TRACE
+antigen-bundle
+antigen-theme
+antigen
+/root/.zshrc
+[WRN][1515362223.9540932178] /root/.oh-my-zsh/custom/themes/antigen.zsh:266
+[WRN][1515362223.9540932178] -antigen-interactive-mode: toplevel:file:file:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[TRA][1515362223.9541699886] /root/.oh-my-zsh/custom/themes/antigen.zsh:475
+[TRA][1515362223.9541699886] Gonna create compdump file @ env-setup COMPDUMP
+[TRA][1515362223.9541699886] TRACE
+-antigen-env-setup
+/root/.oh-my-zsh/custom/themes/antigen.zsh
+/root/.zshrc
+[TRA][1515362223.9800252914] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515362223.9800252914] Called antigen-bundle with --loc=lib BUNDLE
+[TRA][1515362223.9800252914] TRACE
+antigen-bundle
+-antigen-use-oh-my-zsh
+antigen-use
+antigen
+/root/.zshrc
+[TRA][1515362223.9821619987] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515362223.9821619987] Called antigen-bundle with https://github.com/denysdovhan/spaceship-zsh-theme spaceship --btype=theme BUNDLE
+[TRA][1515362223.9821619987] TRACE
+antigen-bundle
+antigen-theme
+antigen
+/root/.zshrc
+[WRN][1515362491.8329191208] /root/.oh-my-zsh/custom/themes/antigen.zsh:266
+[WRN][1515362491.8329191208] -antigen-interactive-mode: toplevel:file:file:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[TRA][1515362491.8330078125] /root/.oh-my-zsh/custom/themes/antigen.zsh:475
+[TRA][1515362491.8330078125] Gonna create compdump file @ env-setup COMPDUMP
+[TRA][1515362491.8330078125] TRACE
+-antigen-env-setup
+/root/.oh-my-zsh/custom/themes/antigen.zsh
+/root/.zshrc
+[TRA][1515362491.8658151627] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515362491.8658151627] Called antigen-bundle with --loc=lib BUNDLE
+[TRA][1515362491.8658151627] TRACE
+antigen-bundle
+-antigen-use-oh-my-zsh
+antigen-use
+antigen
+/root/.zshrc
+[TRA][1515362491.8688888550] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515362491.8688888550] Called antigen-bundle with https://github.com/denysdovhan/spaceship-zsh-theme spaceship --btype=theme BUNDLE
+[TRA][1515362491.8688888550] TRACE
+antigen-bundle
+antigen-theme
+antigen
+/root/.zshrc
+[WRN][1515362503.9895186424] /root/.oh-my-zsh/custom/themes/antigen.zsh:266
+[WRN][1515362503.9895186424] -antigen-interactive-mode: toplevel:file:file:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[TRA][1515362503.9896035194] /root/.oh-my-zsh/custom/themes/antigen.zsh:475
+[TRA][1515362503.9896035194] Gonna create compdump file @ env-setup COMPDUMP
+[TRA][1515362503.9896035194] TRACE
+-antigen-env-setup
+/root/.oh-my-zsh/custom/themes/antigen.zsh
+/root/.zshrc
+[TRA][1515362504.0225124359] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515362504.0225124359] Called antigen-bundle with --loc=lib BUNDLE
+[TRA][1515362504.0225124359] TRACE
+antigen-bundle
+-antigen-use-oh-my-zsh
+antigen-use
+antigen
+/root/.zshrc
+[TRA][1515362504.0254540443] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515362504.0254540443] Called antigen-bundle with https://github.com/denysdovhan/spaceship-zsh-theme spaceship --btype=theme BUNDLE
+[TRA][1515362504.0254540443] TRACE
+antigen-bundle
+antigen-theme
+antigen
+/root/.zshrc
+[WRN][1515362589.7503335476] /root/.oh-my-zsh/custom/themes/antigen.zsh:266
+[WRN][1515362589.7503335476] -antigen-interactive-mode: toplevel:file:file:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[TRA][1515362589.7504217625] /root/.oh-my-zsh/custom/themes/antigen.zsh:475
+[TRA][1515362589.7504217625] Gonna create compdump file @ env-setup COMPDUMP
+[TRA][1515362589.7504217625] TRACE
+-antigen-env-setup
+/root/.oh-my-zsh/custom/themes/antigen.zsh
+/root/.zshrc
+[TRA][1515362589.7814021111] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515362589.7814021111] Called antigen-bundle with --loc=lib BUNDLE
+[TRA][1515362589.7814021111] TRACE
+antigen-bundle
+-antigen-use-oh-my-zsh
+antigen-use
+antigen
+/root/.zshrc
+[TRA][1515362589.7840664387] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515362589.7840664387] Called antigen-bundle with https://github.com/denysdovhan/spaceship-zsh-theme spaceship --btype=theme BUNDLE
+[TRA][1515362589.7840664387] TRACE
+antigen-bundle
+antigen-theme
+antigen
+/root/.zshrc
+[WRN][1515363344.6456911564] /root/.oh-my-zsh/custom/themes/antigen.zsh:266
+[WRN][1515363344.6456911564] -antigen-interactive-mode: toplevel:file:file:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[TRA][1515363344.6457569599] /root/.oh-my-zsh/custom/themes/antigen.zsh:475
+[TRA][1515363344.6457569599] Gonna create compdump file @ env-setup COMPDUMP
+[TRA][1515363344.6457569599] TRACE
+-antigen-env-setup
+/root/.oh-my-zsh/custom/themes/antigen.zsh
+/root/.zshrc
+[TRA][1515363345.1407709122] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515363345.1407709122] Called antigen-bundle with --loc=lib BUNDLE
+[TRA][1515363345.1407709122] TRACE
+antigen-bundle
+-antigen-use-oh-my-zsh
+antigen-use
+antigen
+/root/.zshrc
+[TRA][1515363345.1617858410] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515363345.1617858410] Called antigen-bundle with https://github.com/denysdovhan/spaceship-zsh-theme spaceship --btype=theme BUNDLE
+[TRA][1515363345.1617858410] TRACE
+antigen-bundle
+antigen-theme
+antigen
+/root/.zshrc
+[WRN][1515363355.4232492447] /root/.oh-my-zsh/custom/themes/antigen.zsh:266
+[WRN][1515363355.4232492447] -antigen-interactive-mode: toplevel:file:file:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[TRA][1515363355.4233236313] /root/.oh-my-zsh/custom/themes/antigen.zsh:475
+[TRA][1515363355.4233236313] Gonna create compdump file @ env-setup COMPDUMP
+[TRA][1515363355.4233236313] TRACE
+-antigen-env-setup
+/root/.oh-my-zsh/custom/themes/antigen.zsh
+/root/.zshrc
+[TRA][1515363355.7324011326] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515363355.7324011326] Called antigen-bundle with --loc=lib BUNDLE
+[TRA][1515363355.7324011326] TRACE
+antigen-bundle
+-antigen-use-oh-my-zsh
+antigen-use
+antigen
+/root/.zshrc
+[TRA][1515363355.7340915203] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515363355.7340915203] Called antigen-bundle with https://github.com/denysdovhan/spaceship-zsh-theme spaceship --btype=theme BUNDLE
+[TRA][1515363355.7340915203] TRACE
+antigen-bundle
+antigen-theme
+antigen
+/root/.zshrc
+[WRN][1515363709.4095780849] /root/.oh-my-zsh/custom/themes/antigen.zsh:266
+[WRN][1515363709.4095780849] -antigen-interactive-mode: toplevel:file:file:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[TRA][1515363709.4096615314] /root/.oh-my-zsh/custom/themes/antigen.zsh:475
+[TRA][1515363709.4096615314] Gonna create compdump file @ env-setup COMPDUMP
+[TRA][1515363709.4096615314] TRACE
+-antigen-env-setup
+/root/.oh-my-zsh/custom/themes/antigen.zsh
+/root/.zshrc
+[TRA][1515363709.4778721333] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515363709.4778721333] Called antigen-bundle with --loc=lib BUNDLE
+[TRA][1515363709.4778721333] TRACE
+antigen-bundle
+-antigen-use-oh-my-zsh
+antigen-use
+antigen
+/root/.zshrc
+[TRA][1515363709.4795241356] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515363709.4795241356] Called antigen-bundle with https://github.com/denysdovhan/spaceship-zsh-theme spaceship --btype=theme BUNDLE
+[TRA][1515363709.4795241356] TRACE
+antigen-bundle
+antigen-theme
+antigen
+/root/.zshrc
+[WRN][1515363764.6537187099] /root/.oh-my-zsh/custom/themes/antigen.zsh:266
+[WRN][1515363764.6537187099] -antigen-interactive-mode: toplevel:file:file:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[TRA][1515363764.6537947655] /root/.oh-my-zsh/custom/themes/antigen.zsh:475
+[TRA][1515363764.6537947655] Gonna create compdump file @ env-setup COMPDUMP
+[TRA][1515363764.6537947655] TRACE
+-antigen-env-setup
+/root/.oh-my-zsh/custom/themes/antigen.zsh
+/root/.zshrc
+[TRA][1515363764.9484353065] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515363764.9484353065] Called antigen-bundle with --loc=lib BUNDLE
+[TRA][1515363764.9484353065] TRACE
+antigen-bundle
+-antigen-use-oh-my-zsh
+antigen-use
+antigen
+/root/.zshrc
+[TRA][1515363764.9510939121] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515363764.9510939121] Called antigen-bundle with https://github.com/denysdovhan/spaceship-zsh-theme spaceship --btype=theme BUNDLE
+[TRA][1515363764.9510939121] TRACE
+antigen-bundle
+antigen-theme
+antigen
+/root/.zshrc
+[WRN][1515364031.4997923374] /root/.oh-my-zsh/custom/themes/antigen.zsh:266
+[WRN][1515364031.4997923374] -antigen-interactive-mode: toplevel:file:file:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[TRA][1515364031.4998602867] /root/.oh-my-zsh/custom/themes/antigen.zsh:475
+[TRA][1515364031.4998602867] Gonna create compdump file @ env-setup COMPDUMP
+[TRA][1515364031.4998602867] TRACE
+-antigen-env-setup
+/root/.oh-my-zsh/custom/themes/antigen.zsh
+/root/.zshrc
+[TRA][1515364031.8462295532] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515364031.8462295532] Called antigen-bundle with --loc=lib BUNDLE
+[TRA][1515364031.8462295532] TRACE
+antigen-bundle
+-antigen-use-oh-my-zsh
+antigen-use
+antigen
+/root/.zshrc
+[TRA][1515364031.8487391472] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515364031.8487391472] Called antigen-bundle with https://github.com/denysdovhan/spaceship-zsh-theme spaceship --btype=theme BUNDLE
+[TRA][1515364031.8487391472] TRACE
+antigen-bundle
+antigen-theme
+antigen
+/root/.zshrc
+[WRN][1515364239.8900835514] /root/.oh-my-zsh/custom/themes/antigen.zsh:266
+[WRN][1515364239.8900835514] -antigen-interactive-mode: file:file:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[WRN][1515364239.8903005123] /root/.oh-my-zsh/custom/themes/antigen.zsh:1572
+[WRN][1515364239.8903005123] -antigen-lock-init return code was 0
+[LOG][1515364239.8903458118] /root/.oh-my-zsh/custom/themes/antigen.zsh:1574
+[LOG][1515364239.8903458118] LOADED EXTENSION lock EXT
+[WRN][1515364239.8916804790] /root/.oh-my-zsh/custom/themes/antigen.zsh:1684
+[WRN][1515364239.8916804790] Init parallel extension PARALLEL
+[WRN][1515364239.8917491436] /root/.oh-my-zsh/custom/themes/antigen.zsh:266
+[WRN][1515364239.8917491436] -antigen-interactive-mode: file:file:shfunc:shfunc:shfunc:eval:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[WRN][1515364239.8918149471] /root/.oh-my-zsh/custom/themes/antigen.zsh:1572
+[WRN][1515364239.8918149471] -antigen-parallel-init return code was 0
+[LOG][1515364239.8918545246] /root/.oh-my-zsh/custom/themes/antigen.zsh:1574
+[LOG][1515364239.8918545246] LOADED EXTENSION parallel EXT
+[WRN][1515364239.8918945789] /root/.oh-my-zsh/custom/themes/antigen.zsh:1692
+[WRN][1515364239.8918945789] Exec parallel extension PARALLEL
+[WRN][1515364239.8921275139] /root/.oh-my-zsh/custom/themes/antigen.zsh:266
+[WRN][1515364239.8921275139] -antigen-interactive-mode: file:file:shfunc:shfunc:shfunc:eval:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[WRN][1515364239.8921871185] /root/.oh-my-zsh/custom/themes/antigen.zsh:1572
+[WRN][1515364239.8921871185] -antigen-defer-init return code was 0
+[LOG][1515364239.8922245502] /root/.oh-my-zsh/custom/themes/antigen.zsh:1574
+[LOG][1515364239.8922245502] LOADED EXTENSION defer EXT
+[WRN][1515364239.8929607868] /root/.oh-my-zsh/custom/themes/antigen.zsh:266
+[WRN][1515364239.8929607868] -antigen-interactive-mode: file:file:shfunc:shfunc:shfunc:eval:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[WRN][1515364239.8931286335] /root/.oh-my-zsh/custom/themes/antigen.zsh:1572
+[WRN][1515364239.8931286335] -antigen-cache-init return code was 0
+[LOG][1515364239.8931715488] /root/.oh-my-zsh/custom/themes/antigen.zsh:1574
+[LOG][1515364239.8931715488] LOADED EXTENSION cache EXT
+[WRN][1515364239.9652237892] /root/.oh-my-zsh/custom/themes/antigen.zsh:1469
+[WRN][1515364239.9652237892] Updated meta: target antigen mode once type pre called 1
+[WRN][1515364239.9653122425] /root/.oh-my-zsh/custom/themes/antigen.zsh:1484
+[WRN][1515364239.9653122425] Processing hooks: antigen-lock
+[WRN][1515364239.9653618336] /root/.oh-my-zsh/custom/themes/antigen.zsh:1487
+[WRN][1515364239.9653618336] Pre hook: antigen-lock use oh-my-zsh
+[LOG][1515364239.9654119015] /root/.oh-my-zsh/custom/themes/antigen.zsh:4
+[LOG][1515364239.9654119015] antigen-lock called
+[WRN][1515364239.9654967785] /root/.oh-my-zsh/custom/themes/antigen.zsh:1489
+[WRN][1515364239.9654967785] antigen-lock shortcircuited
+[WRN][1515364239.9656364918] /root/.oh-my-zsh/custom/themes/antigen.zsh:1462
+[WRN][1515364239.9656364918] Ignoring hook due to mode once: antigen-lock
+[WRN][1515364239.9656825066] /root/.oh-my-zsh/custom/themes/antigen.zsh:1484
+[WRN][1515364239.9656825066] Processing hooks: antigen-lock
+[WRN][1515364239.9657602310] /root/.oh-my-zsh/custom/themes/antigen.zsh:1505
+[WRN][1515364239.9657602310] -antigen-hook-antigen theme https://github.com/denysdovhan/spaceship-zsh-theme spaceship
+[WRN][1515364239.9674575329] /root/.oh-my-zsh/custom/themes/antigen.zsh:1469
+[WRN][1515364239.9674575329] Updated meta: target antigen-bundle mode repeat type replace called 1
+[WRN][1515364239.9675819874] /root/.oh-my-zsh/custom/themes/antigen.zsh:1469
+[WRN][1515364239.9675819874] Updated meta: target antigen-bundle mode repeat type pre called 1
+[WRN][1515364239.9676437378] /root/.oh-my-zsh/custom/themes/antigen.zsh:1484
+[WRN][1515364239.9676437378] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1515364239.9676930904] /root/.oh-my-zsh/custom/themes/antigen.zsh:1487
+[WRN][1515364239.9676930904] Pre hook: antigen-bundle-cached https://github.com/denysdovhan/spaceship-zsh-theme spaceship --btype=theme
+[WRN][1515364239.9677777290] /root/.oh-my-zsh/custom/themes/antigen.zsh:1498
+[WRN][1515364239.9677777290] Replace hook: antigen-bundle-defer https://github.com/denysdovhan/spaceship-zsh-theme spaceship --btype=theme
+[WRN][1515364239.9678490162] /root/.oh-my-zsh/custom/themes/antigen.zsh:1500
+[WRN][1515364239.9678490162] antigen-bundle-defer shortcircuited
+[LOG][1515364239.9679670334] /root/.oh-my-zsh/custom/themes/antigen.zsh:1518
+[LOG][1515364239.9679670334] Return from hook antigen with 0
+[WRN][1515364481.1811518669] /root/.oh-my-zsh/custom/themes/antigen.zsh:266
+[WRN][1515364481.1811518669] -antigen-interactive-mode: toplevel:file:file:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[TRA][1515364481.1812236309] /root/.oh-my-zsh/custom/themes/antigen.zsh:475
+[TRA][1515364481.1812236309] Gonna create compdump file @ env-setup COMPDUMP
+[TRA][1515364481.1812236309] TRACE
+-antigen-env-setup
+/root/.oh-my-zsh/custom/themes/antigen.zsh
+/root/.zshrc
+[TRA][1515364481.2439930439] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515364481.2439930439] Called antigen-bundle with --loc=lib BUNDLE
+[TRA][1515364481.2439930439] TRACE
+antigen-bundle
+-antigen-use-oh-my-zsh
+antigen-use
+antigen
+/root/.zshrc
+[TRA][1515364481.2664964199] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515364481.2664964199] Called antigen-bundle with https://github.com/denysdovhan/spaceship-zsh-theme spaceship --btype=theme BUNDLE
+[TRA][1515364481.2664964199] TRACE
+antigen-bundle
+antigen-theme
+antigen
+/root/.zshrc
+[WRN][1515364532.1511032581] /root/.oh-my-zsh/custom/themes/antigen.zsh:266
+[WRN][1515364532.1511032581] -antigen-interactive-mode: toplevel:file:file:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[TRA][1515364532.1511788368] /root/.oh-my-zsh/custom/themes/antigen.zsh:475
+[TRA][1515364532.1511788368] Gonna create compdump file @ env-setup COMPDUMP
+[TRA][1515364532.1511788368] TRACE
+-antigen-env-setup
+/root/.oh-my-zsh/custom/themes/antigen.zsh
+/root/.zshrc
+[TRA][1515364532.2183165550] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515364532.2183165550] Called antigen-bundle with --loc=lib BUNDLE
+[TRA][1515364532.2183165550] TRACE
+antigen-bundle
+-antigen-use-oh-my-zsh
+antigen-use
+antigen
+/root/.zshrc
+[TRA][1515364532.2199013233] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515364532.2199013233] Called antigen-bundle with https://github.com/denysdovhan/spaceship-zsh-theme spaceship --btype=theme BUNDLE
+[TRA][1515364532.2199013233] TRACE
+antigen-bundle
+antigen-theme
+antigen
+/root/.zshrc
+[WRN][1515364562.3155689240] /root/.oh-my-zsh/custom/themes/antigen.zsh:266
+[WRN][1515364562.3155689240] -antigen-interactive-mode: toplevel:file:file:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[TRA][1515364562.3156476021] /root/.oh-my-zsh/custom/themes/antigen.zsh:475
+[TRA][1515364562.3156476021] Gonna create compdump file @ env-setup COMPDUMP
+[TRA][1515364562.3156476021] TRACE
+-antigen-env-setup
+/root/.oh-my-zsh/custom/themes/antigen.zsh
+/root/.zshrc
+[TRA][1515364562.3827922344] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515364562.3827922344] Called antigen-bundle with --loc=lib BUNDLE
+[TRA][1515364562.3827922344] TRACE
+antigen-bundle
+-antigen-use-oh-my-zsh
+antigen-use
+antigen
+/root/.zshrc
+[TRA][1515364562.3843715191] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515364562.3843715191] Called antigen-bundle with --loc=themes/spaceship --btype=theme BUNDLE
+[TRA][1515364562.3843715191] TRACE
+antigen-bundle
+antigen-theme
+antigen
+/root/.zshrc
+[TRA][1515364562.3854961395] /root/.oh-my-zsh/custom/themes/antigen.zsh:834
+[TRA][1515364562.3854961395] -antigen-load failed to load robbyrussell/oh-my-zsh BUNDLE
+[TRA][1515364562.3854961395] TRACE
+antigen-bundle
+antigen-theme
+antigen
+/root/.zshrc
+[WRN][1515364570.3449020386] /root/.oh-my-zsh/custom/themes/antigen.zsh:266
+[WRN][1515364570.3449020386] -antigen-interactive-mode: toplevel:file:file:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[TRA][1515364570.3449993134] /root/.oh-my-zsh/custom/themes/antigen.zsh:475
+[TRA][1515364570.3449993134] Gonna create compdump file @ env-setup COMPDUMP
+[TRA][1515364570.3449993134] TRACE
+-antigen-env-setup
+/root/.oh-my-zsh/custom/themes/antigen.zsh
+/root/.zshrc
+[TRA][1515364570.4148464203] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515364570.4148464203] Called antigen-bundle with --loc=lib BUNDLE
+[TRA][1515364570.4148464203] TRACE
+antigen-bundle
+-antigen-use-oh-my-zsh
+antigen-use
+antigen
+/root/.zshrc
+[TRA][1515364570.4164640903] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515364570.4164640903] Called antigen-bundle with --loc=themes/spaceship --btype=theme BUNDLE
+[TRA][1515364570.4164640903] TRACE
+antigen-bundle
+antigen-theme
+antigen
+/root/.zshrc
+[TRA][1515364570.4176080227] /root/.oh-my-zsh/custom/themes/antigen.zsh:834
+[TRA][1515364570.4176080227] -antigen-load failed to load robbyrussell/oh-my-zsh BUNDLE
+[TRA][1515364570.4176080227] TRACE
+antigen-bundle
+antigen-theme
+antigen
+/root/.zshrc
+[WRN][1515364622.4915089607] /root/.oh-my-zsh/custom/themes/antigen.zsh:266
+[WRN][1515364622.4915089607] -antigen-interactive-mode: toplevel:file:file:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[TRA][1515364622.4915904999] /root/.oh-my-zsh/custom/themes/antigen.zsh:475
+[TRA][1515364622.4915904999] Gonna create compdump file @ env-setup COMPDUMP
+[TRA][1515364622.4915904999] TRACE
+-antigen-env-setup
+/root/.oh-my-zsh/custom/themes/antigen.zsh
+/root/.zshrc
+[TRA][1515364622.5605254173] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515364622.5605254173] Called antigen-bundle with --loc=lib BUNDLE
+[TRA][1515364622.5605254173] TRACE
+antigen-bundle
+-antigen-use-oh-my-zsh
+antigen-use
+antigen
+/root/.zshrc
+[TRA][1515364622.5621628761] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515364622.5621628761] Called antigen-bundle with https://github.com/denysdovhan/spaceship-zsh-them spaceship --btype=theme BUNDLE
+[TRA][1515364622.5621628761] TRACE
+antigen-bundle
+antigen-theme
+antigen
+/root/.zshrc
+[TRA][1515364646.4651029110] /root/.oh-my-zsh/custom/themes/antigen.zsh:861
+[TRA][1515364646.4651029110] -antigen-bundle-instal failed to clone https://github.com/denysdovhan/spaceship-zsh-them BUNDLE
+[TRA][1515364646.4651029110] TRACE
+-antigen-bundle-install
+antigen-bundle
+antigen-theme
+antigen
+/root/.zshrc
+[WRN][1515364669.1317834854] /root/.oh-my-zsh/custom/themes/antigen.zsh:266
+[WRN][1515364669.1317834854] -antigen-interactive-mode: toplevel:file:file:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[TRA][1515364669.1318643093] /root/.oh-my-zsh/custom/themes/antigen.zsh:475
+[TRA][1515364669.1318643093] Gonna create compdump file @ env-setup COMPDUMP
+[TRA][1515364669.1318643093] TRACE
+-antigen-env-setup
+/root/.oh-my-zsh/custom/themes/antigen.zsh
+/root/.zshrc
+[TRA][1515364669.2021517754] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515364669.2021517754] Called antigen-bundle with --loc=lib BUNDLE
+[TRA][1515364669.2021517754] TRACE
+antigen-bundle
+-antigen-use-oh-my-zsh
+antigen-use
+antigen
+/root/.zshrc
+[TRA][1515364669.2037808895] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515364669.2037808895] Called antigen-bundle with https://github.com/denysdovhan/spaceship-zsh-them spaceship --btype=theme BUNDLE
+[TRA][1515364669.2037808895] TRACE
+antigen-bundle
+antigen-theme
+antigen
+/root/.zshrc
+[TRA][1515364670.0842621326] /root/.oh-my-zsh/custom/themes/antigen.zsh:861
+[TRA][1515364670.0842621326] -antigen-bundle-instal failed to clone https://github.com/denysdovhan/spaceship-zsh-them BUNDLE
+[TRA][1515364670.0842621326] TRACE
+-antigen-bundle-install
+antigen-bundle
+antigen-theme
+antigen
+/root/.zshrc
+[WRN][1515364704.2499818802] /root/.oh-my-zsh/custom/themes/antigen.zsh:266
+[WRN][1515364704.2499818802] -antigen-interactive-mode: toplevel:file:file:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[TRA][1515364704.2500662804] /root/.oh-my-zsh/custom/themes/antigen.zsh:475
+[TRA][1515364704.2500662804] Gonna create compdump file @ env-setup COMPDUMP
+[TRA][1515364704.2500662804] TRACE
+-antigen-env-setup
+/root/.oh-my-zsh/custom/themes/antigen.zsh
+/root/.zshrc
+[TRA][1515364704.3201420307] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515364704.3201420307] Called antigen-bundle with --loc=lib BUNDLE
+[TRA][1515364704.3201420307] TRACE
+antigen-bundle
+-antigen-use-oh-my-zsh
+antigen-use
+antigen
+/root/.zshrc
+[TRA][1515364704.3218269348] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515364704.3218269348] Called antigen-bundle with https://github.com/denysdovhan/spaceship-zsh-theme spaceship --btype=theme BUNDLE
+[TRA][1515364704.3218269348] TRACE
+antigen-bundle
+antigen-theme
+antigen
+/root/.zshrc
+[WRN][1515364743.5511965752] /root/.oh-my-zsh/custom/themes/antigen.zsh:266
+[WRN][1515364743.5511965752] -antigen-interactive-mode: toplevel:file:file:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[TRA][1515364743.5512783527] /root/.oh-my-zsh/custom/themes/antigen.zsh:475
+[TRA][1515364743.5512783527] Gonna create compdump file @ env-setup COMPDUMP
+[TRA][1515364743.5512783527] TRACE
+-antigen-env-setup
+/root/.oh-my-zsh/custom/themes/antigen.zsh
+/root/.zshrc
+[TRA][1515364743.6210141182] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515364743.6210141182] Called antigen-bundle with --loc=lib BUNDLE
+[TRA][1515364743.6210141182] TRACE
+antigen-bundle
+-antigen-use-oh-my-zsh
+antigen-use
+antigen
+/root/.zshrc
+[TRA][1515364743.6226627827] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515364743.6226627827] Called antigen-bundle with https://github.com/denysdovhan/spaceship-zsh-theme spaceship --btype=theme BUNDLE
+[TRA][1515364743.6226627827] TRACE
+antigen-bundle
+antigen-theme
+antigen
+/root/.zshrc
+[WRN][1515364803.1935296059] /root/.oh-my-zsh/custom/themes/antigen.zsh:266
+[WRN][1515364803.1935296059] -antigen-interactive-mode: toplevel:file:file:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[TRA][1515364803.1935935020] /root/.oh-my-zsh/custom/themes/antigen.zsh:475
+[TRA][1515364803.1935935020] Gonna create compdump file @ env-setup COMPDUMP
+[TRA][1515364803.1935935020] TRACE
+-antigen-env-setup
+/root/.oh-my-zsh/custom/themes/antigen.zsh
+/root/.zshrc
+[TRA][1515364803.4652833939] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515364803.4652833939] Called antigen-bundle with --loc=lib BUNDLE
+[TRA][1515364803.4652833939] TRACE
+antigen-bundle
+-antigen-use-oh-my-zsh
+antigen-use
+antigen
+/root/.zshrc
+[TRA][1515364803.4671869278] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515364803.4671869278] Called antigen-bundle with https://github.com/denysdovhan/spaceship-zsh-theme spaceship --btype=theme BUNDLE
+[TRA][1515364803.4671869278] TRACE
+antigen-bundle
+antigen-theme
+antigen
+/root/.zshrc
+[WRN][1515365000.1830270290] /root/.oh-my-zsh/custom/themes/antigen.zsh:266
+[WRN][1515365000.1830270290] -antigen-interactive-mode: toplevel:file:file:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[TRA][1515365000.1831042767] /root/.oh-my-zsh/custom/themes/antigen.zsh:475
+[TRA][1515365000.1831042767] Gonna create compdump file @ env-setup COMPDUMP
+[TRA][1515365000.1831042767] TRACE
+-antigen-env-setup
+/root/.oh-my-zsh/custom/themes/antigen.zsh
+/root/.zshrc
+[TRA][1515365000.5301284790] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515365000.5301284790] Called antigen-bundle with --loc=lib BUNDLE
+[TRA][1515365000.5301284790] TRACE
+antigen-bundle
+-antigen-use-oh-my-zsh
+antigen-use
+antigen
+/root/.zshrc
+[TRA][1515365000.5324983597] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515365000.5324983597] Called antigen-bundle with https://github.com/denysdovhan/spaceship-zsh-theme spaceship --btype=theme BUNDLE
+[TRA][1515365000.5324983597] TRACE
+antigen-bundle
+antigen-theme
+antigen
+/root/.zshrc
+[WRN][1515365035.6808452606] /root/.oh-my-zsh/custom/themes/antigen.zsh:266
+[WRN][1515365035.6808452606] -antigen-interactive-mode: file:file:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[WRN][1515365035.6810615063] /root/.oh-my-zsh/custom/themes/antigen.zsh:1572
+[WRN][1515365035.6810615063] -antigen-lock-init return code was 0
+[LOG][1515365035.6811082363] /root/.oh-my-zsh/custom/themes/antigen.zsh:1574
+[LOG][1515365035.6811082363] LOADED EXTENSION lock EXT
+[WRN][1515365035.6825063229] /root/.oh-my-zsh/custom/themes/antigen.zsh:1684
+[WRN][1515365035.6825063229] Init parallel extension PARALLEL
+[WRN][1515365035.6825785637] /root/.oh-my-zsh/custom/themes/antigen.zsh:266
+[WRN][1515365035.6825785637] -antigen-interactive-mode: file:file:shfunc:shfunc:shfunc:eval:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[WRN][1515365035.6826500893] /root/.oh-my-zsh/custom/themes/antigen.zsh:1572
+[WRN][1515365035.6826500893] -antigen-parallel-init return code was 0
+[LOG][1515365035.6826939583] /root/.oh-my-zsh/custom/themes/antigen.zsh:1574
+[LOG][1515365035.6826939583] LOADED EXTENSION parallel EXT
+[WRN][1515365035.6827371120] /root/.oh-my-zsh/custom/themes/antigen.zsh:1692
+[WRN][1515365035.6827371120] Exec parallel extension PARALLEL
+[WRN][1515365035.6829667091] /root/.oh-my-zsh/custom/themes/antigen.zsh:266
+[WRN][1515365035.6829667091] -antigen-interactive-mode: file:file:shfunc:shfunc:shfunc:eval:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[WRN][1515365035.6830310822] /root/.oh-my-zsh/custom/themes/antigen.zsh:1572
+[WRN][1515365035.6830310822] -antigen-defer-init return code was 0
+[LOG][1515365035.6830713749] /root/.oh-my-zsh/custom/themes/antigen.zsh:1574
+[LOG][1515365035.6830713749] LOADED EXTENSION defer EXT
+[WRN][1515365035.6838140488] /root/.oh-my-zsh/custom/themes/antigen.zsh:266
+[WRN][1515365035.6838140488] -antigen-interactive-mode: file:file:shfunc:shfunc:shfunc:eval:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[WRN][1515365035.6839873791] /root/.oh-my-zsh/custom/themes/antigen.zsh:1572
+[WRN][1515365035.6839873791] -antigen-cache-init return code was 0
+[LOG][1515365035.6840322018] /root/.oh-my-zsh/custom/themes/antigen.zsh:1574
+[LOG][1515365035.6840322018] LOADED EXTENSION cache EXT
+[WRN][1515365035.7515611649] /root/.oh-my-zsh/custom/themes/antigen.zsh:1469
+[WRN][1515365035.7515611649] Updated meta: target antigen mode once type pre called 1
+[WRN][1515365035.7516467571] /root/.oh-my-zsh/custom/themes/antigen.zsh:1484
+[WRN][1515365035.7516467571] Processing hooks: antigen-lock
+[WRN][1515365035.7516932487] /root/.oh-my-zsh/custom/themes/antigen.zsh:1487
+[WRN][1515365035.7516932487] Pre hook: antigen-lock use oh-my-zsh
+[LOG][1515365035.7517445087] /root/.oh-my-zsh/custom/themes/antigen.zsh:4
+[LOG][1515365035.7517445087] antigen-lock called
+[WRN][1515365035.7518138885] /root/.oh-my-zsh/custom/themes/antigen.zsh:1489
+[WRN][1515365035.7518138885] antigen-lock shortcircuited
+[WRN][1515365035.7519469261] /root/.oh-my-zsh/custom/themes/antigen.zsh:1462
+[WRN][1515365035.7519469261] Ignoring hook due to mode once: antigen-lock
+[WRN][1515365035.7519891262] /root/.oh-my-zsh/custom/themes/antigen.zsh:1484
+[WRN][1515365035.7519891262] Processing hooks: antigen-lock
+[WRN][1515365035.7520365715] /root/.oh-my-zsh/custom/themes/antigen.zsh:1505
+[WRN][1515365035.7520365715] -antigen-hook-antigen theme https://github.com/denysdovhan/spaceship-zsh-theme spaceship
+[WRN][1515365035.7535738945] /root/.oh-my-zsh/custom/themes/antigen.zsh:1469
+[WRN][1515365035.7535738945] Updated meta: target antigen-bundle mode repeat type replace called 1
+[WRN][1515365035.7536766529] /root/.oh-my-zsh/custom/themes/antigen.zsh:1469
+[WRN][1515365035.7536766529] Updated meta: target antigen-bundle mode repeat type pre called 1
+[WRN][1515365035.7537322044] /root/.oh-my-zsh/custom/themes/antigen.zsh:1484
+[WRN][1515365035.7537322044] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1515365035.7537920475] /root/.oh-my-zsh/custom/themes/antigen.zsh:1487
+[WRN][1515365035.7537920475] Pre hook: antigen-bundle-cached https://github.com/denysdovhan/spaceship-zsh-theme spaceship --btype=theme
+[WRN][1515365035.7538802624] /root/.oh-my-zsh/custom/themes/antigen.zsh:1498
+[WRN][1515365035.7538802624] Replace hook: antigen-bundle-defer https://github.com/denysdovhan/spaceship-zsh-theme spaceship --btype=theme
+[WRN][1515365035.7539463043] /root/.oh-my-zsh/custom/themes/antigen.zsh:1500
+[WRN][1515365035.7539463043] antigen-bundle-defer shortcircuited
+[LOG][1515365035.7540497780] /root/.oh-my-zsh/custom/themes/antigen.zsh:1518
+[LOG][1515365035.7540497780] Return from hook antigen with 0
+[WRN][1515365062.4178595543] /root/.oh-my-zsh/custom/themes/antigen.zsh:266
+[WRN][1515365062.4178595543] -antigen-interactive-mode: toplevel:file:file:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[TRA][1515365062.4179201126] /root/.oh-my-zsh/custom/themes/antigen.zsh:475
+[TRA][1515365062.4179201126] Gonna create compdump file @ env-setup COMPDUMP
+[TRA][1515365062.4179201126] TRACE
+-antigen-env-setup
+/root/.oh-my-zsh/custom/themes/antigen.zsh
+/root/.zshrc
+[TRA][1515365062.4804158211] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515365062.4804158211] Called antigen-bundle with --loc=lib BUNDLE
+[TRA][1515365062.4804158211] TRACE
+antigen-bundle
+-antigen-use-oh-my-zsh
+antigen-use
+antigen
+/root/.zshrc
+[TRA][1515365062.5011658669] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515365062.5011658669] Called antigen-bundle with https://github.com/denysdovhan/spaceship-zsh-theme spaceship --btype=theme BUNDLE
+[TRA][1515365062.5011658669] TRACE
+antigen-bundle
+antigen-theme
+antigen
+/root/.zshrc
+[WRN][1515365102.9638357162] /root/.oh-my-zsh/custom/themes/antigen.zsh:266
+[WRN][1515365102.9638357162] -antigen-interactive-mode: toplevel:file:file:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[TRA][1515365102.9639098644] /root/.oh-my-zsh/custom/themes/antigen.zsh:475
+[TRA][1515365102.9639098644] Gonna create compdump file @ env-setup COMPDUMP
+[TRA][1515365102.9639098644] TRACE
+-antigen-env-setup
+/root/.oh-my-zsh/custom/themes/antigen.zsh
+/root/.zshrc
+[TRA][1515365103.0315489769] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515365103.0315489769] Called antigen-bundle with --loc=lib BUNDLE
+[TRA][1515365103.0315489769] TRACE
+antigen-bundle
+-antigen-use-oh-my-zsh
+antigen-use
+antigen
+/root/.zshrc
+[TRA][1515365103.0331783295] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515365103.0331783295] Called antigen-bundle with https://github.com/denysdovhan/spaceship-zsh-theme spaceship --btype=theme BUNDLE
+[TRA][1515365103.0331783295] TRACE
+antigen-bundle
+antigen-theme
+antigen
+/root/.zshrc
+[WRN][1515365122.4486997128] /root/.oh-my-zsh/custom/themes/antigen.zsh:266
+[WRN][1515365122.4486997128] -antigen-interactive-mode: file:file:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[WRN][1515365122.4490447044] /root/.oh-my-zsh/custom/themes/antigen.zsh:1572
+[WRN][1515365122.4490447044] -antigen-lock-init return code was 0
+[LOG][1515365122.4491121769] /root/.oh-my-zsh/custom/themes/antigen.zsh:1574
+[LOG][1515365122.4491121769] LOADED EXTENSION lock EXT
+[WRN][1515365122.4507567883] /root/.oh-my-zsh/custom/themes/antigen.zsh:1684
+[WRN][1515365122.4507567883] Init parallel extension PARALLEL
+[WRN][1515365122.4508829117] /root/.oh-my-zsh/custom/themes/antigen.zsh:266
+[WRN][1515365122.4508829117] -antigen-interactive-mode: file:file:shfunc:shfunc:shfunc:eval:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[WRN][1515365122.4510068893] /root/.oh-my-zsh/custom/themes/antigen.zsh:1572
+[WRN][1515365122.4510068893] -antigen-parallel-init return code was 0
+[LOG][1515365122.4510710239] /root/.oh-my-zsh/custom/themes/antigen.zsh:1574
+[LOG][1515365122.4510710239] LOADED EXTENSION parallel EXT
+[WRN][1515365122.4511289597] /root/.oh-my-zsh/custom/themes/antigen.zsh:1692
+[WRN][1515365122.4511289597] Exec parallel extension PARALLEL
+[WRN][1515365122.4515316486] /root/.oh-my-zsh/custom/themes/antigen.zsh:266
+[WRN][1515365122.4515316486] -antigen-interactive-mode: file:file:shfunc:shfunc:shfunc:eval:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[WRN][1515365122.4516730309] /root/.oh-my-zsh/custom/themes/antigen.zsh:1572
+[WRN][1515365122.4516730309] -antigen-defer-init return code was 0
+[LOG][1515365122.4517397881] /root/.oh-my-zsh/custom/themes/antigen.zsh:1574
+[LOG][1515365122.4517397881] LOADED EXTENSION defer EXT
+[WRN][1515365122.4530065060] /root/.oh-my-zsh/custom/themes/antigen.zsh:266
+[WRN][1515365122.4530065060] -antigen-interactive-mode: file:file:shfunc:shfunc:shfunc:eval:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[WRN][1515365122.4532215595] /root/.oh-my-zsh/custom/themes/antigen.zsh:1572
+[WRN][1515365122.4532215595] -antigen-cache-init return code was 0
+[LOG][1515365122.4532718658] /root/.oh-my-zsh/custom/themes/antigen.zsh:1574
+[LOG][1515365122.4532718658] LOADED EXTENSION cache EXT
+[WRN][1515365122.5372190475] /root/.oh-my-zsh/custom/themes/antigen.zsh:1469
+[WRN][1515365122.5372190475] Updated meta: target antigen mode once type pre called 1
+[WRN][1515365122.5373382568] /root/.oh-my-zsh/custom/themes/antigen.zsh:1484
+[WRN][1515365122.5373382568] Processing hooks: antigen-lock
+[WRN][1515365122.5374033451] /root/.oh-my-zsh/custom/themes/antigen.zsh:1487
+[WRN][1515365122.5374033451] Pre hook: antigen-lock use oh-my-zsh
+[LOG][1515365122.5374574661] /root/.oh-my-zsh/custom/themes/antigen.zsh:4
+[LOG][1515365122.5374574661] antigen-lock called
+[WRN][1515365122.5375447273] /root/.oh-my-zsh/custom/themes/antigen.zsh:1489
+[WRN][1515365122.5375447273] antigen-lock shortcircuited
+[WRN][1515365122.5377101898] /root/.oh-my-zsh/custom/themes/antigen.zsh:1462
+[WRN][1515365122.5377101898] Ignoring hook due to mode once: antigen-lock
+[WRN][1515365122.5377614498] /root/.oh-my-zsh/custom/themes/antigen.zsh:1484
+[WRN][1515365122.5377614498] Processing hooks: antigen-lock
+[WRN][1515365122.5378286839] /root/.oh-my-zsh/custom/themes/antigen.zsh:1505
+[WRN][1515365122.5378286839] -antigen-hook-antigen theme https://github.com/denysdovhan/spaceship-zsh-theme spaceship
+[WRN][1515365122.5401797295] /root/.oh-my-zsh/custom/themes/antigen.zsh:1469
+[WRN][1515365122.5401797295] Updated meta: target antigen-bundle mode repeat type replace called 1
+[WRN][1515365122.5403215885] /root/.oh-my-zsh/custom/themes/antigen.zsh:1469
+[WRN][1515365122.5403215885] Updated meta: target antigen-bundle mode repeat type pre called 1
+[WRN][1515365122.5403850079] /root/.oh-my-zsh/custom/themes/antigen.zsh:1484
+[WRN][1515365122.5403850079] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1515365122.5404448509] /root/.oh-my-zsh/custom/themes/antigen.zsh:1487
+[WRN][1515365122.5404448509] Pre hook: antigen-bundle-cached https://github.com/denysdovhan/spaceship-zsh-theme spaceship --btype=theme
+[WRN][1515365122.5405373573] /root/.oh-my-zsh/custom/themes/antigen.zsh:1498
+[WRN][1515365122.5405373573] Replace hook: antigen-bundle-defer https://github.com/denysdovhan/spaceship-zsh-theme spaceship --btype=theme
+[WRN][1515365122.5406119823] /root/.oh-my-zsh/custom/themes/antigen.zsh:1500
+[WRN][1515365122.5406119823] antigen-bundle-defer shortcircuited
+[LOG][1515365122.5407416821] /root/.oh-my-zsh/custom/themes/antigen.zsh:1518
+[LOG][1515365122.5407416821] Return from hook antigen with 0
+[WRN][1515365195.7635138035] /root/.oh-my-zsh/custom/themes/antigen.zsh:266
+[WRN][1515365195.7635138035] -antigen-interactive-mode: file:file:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[WRN][1515365195.7637574673] /root/.oh-my-zsh/custom/themes/antigen.zsh:1572
+[WRN][1515365195.7637574673] -antigen-lock-init return code was 0
+[LOG][1515365195.7638096809] /root/.oh-my-zsh/custom/themes/antigen.zsh:1574
+[LOG][1515365195.7638096809] LOADED EXTENSION lock EXT
+[WRN][1515365195.7650842667] /root/.oh-my-zsh/custom/themes/antigen.zsh:1684
+[WRN][1515365195.7650842667] Init parallel extension PARALLEL
+[WRN][1515365195.7651643753] /root/.oh-my-zsh/custom/themes/antigen.zsh:266
+[WRN][1515365195.7651643753] -antigen-interactive-mode: file:file:shfunc:shfunc:shfunc:eval:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[WRN][1515365195.7652490139] /root/.oh-my-zsh/custom/themes/antigen.zsh:1572
+[WRN][1515365195.7652490139] -antigen-parallel-init return code was 0
+[LOG][1515365195.7652945518] /root/.oh-my-zsh/custom/themes/antigen.zsh:1574
+[LOG][1515365195.7652945518] LOADED EXTENSION parallel EXT
+[WRN][1515365195.7653393745] /root/.oh-my-zsh/custom/themes/antigen.zsh:1692
+[WRN][1515365195.7653393745] Exec parallel extension PARALLEL
+[WRN][1515365195.7655785084] /root/.oh-my-zsh/custom/themes/antigen.zsh:266
+[WRN][1515365195.7655785084] -antigen-interactive-mode: file:file:shfunc:shfunc:shfunc:eval:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[WRN][1515365195.7656495571] /root/.oh-my-zsh/custom/themes/antigen.zsh:1572
+[WRN][1515365195.7656495571] -antigen-defer-init return code was 0
+[LOG][1515365195.7656927109] /root/.oh-my-zsh/custom/themes/antigen.zsh:1574
+[LOG][1515365195.7656927109] LOADED EXTENSION defer EXT
+[WRN][1515365195.7665235996] /root/.oh-my-zsh/custom/themes/antigen.zsh:266
+[WRN][1515365195.7665235996] -antigen-interactive-mode: file:file:shfunc:shfunc:shfunc:eval:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[WRN][1515365195.7667188644] /root/.oh-my-zsh/custom/themes/antigen.zsh:1572
+[WRN][1515365195.7667188644] -antigen-cache-init return code was 0
+[LOG][1515365195.7667691708] /root/.oh-my-zsh/custom/themes/antigen.zsh:1574
+[LOG][1515365195.7667691708] LOADED EXTENSION cache EXT
+[WRN][1515365195.8431398869] /root/.oh-my-zsh/custom/themes/antigen.zsh:1469
+[WRN][1515365195.8431398869] Updated meta: target antigen mode once type pre called 1
+[WRN][1515365195.8432188034] /root/.oh-my-zsh/custom/themes/antigen.zsh:1484
+[WRN][1515365195.8432188034] Processing hooks: antigen-lock
+[WRN][1515365195.8432676792] /root/.oh-my-zsh/custom/themes/antigen.zsh:1487
+[WRN][1515365195.8432676792] Pre hook: antigen-lock use oh-my-zsh
+[LOG][1515365195.8433167934] /root/.oh-my-zsh/custom/themes/antigen.zsh:4
+[LOG][1515365195.8433167934] antigen-lock called
+[WRN][1515365195.8433923721] /root/.oh-my-zsh/custom/themes/antigen.zsh:1489
+[WRN][1515365195.8433923721] antigen-lock shortcircuited
+[WRN][1515365195.8435280323] /root/.oh-my-zsh/custom/themes/antigen.zsh:1462
+[WRN][1515365195.8435280323] Ignoring hook due to mode once: antigen-lock
+[WRN][1515365195.8435735703] /root/.oh-my-zsh/custom/themes/antigen.zsh:1484
+[WRN][1515365195.8435735703] Processing hooks: antigen-lock
+[WRN][1515365195.8436236382] /root/.oh-my-zsh/custom/themes/antigen.zsh:1505
+[WRN][1515365195.8436236382] -antigen-hook-antigen theme https://github.com/denysdovhan/spaceship-zsh-theme spaceship
+[WRN][1515365195.8451194763] /root/.oh-my-zsh/custom/themes/antigen.zsh:1469
+[WRN][1515365195.8451194763] Updated meta: target antigen-bundle mode repeat type replace called 1
+[WRN][1515365195.8452248573] /root/.oh-my-zsh/custom/themes/antigen.zsh:1469
+[WRN][1515365195.8452248573] Updated meta: target antigen-bundle mode repeat type pre called 1
+[WRN][1515365195.8452851772] /root/.oh-my-zsh/custom/themes/antigen.zsh:1484
+[WRN][1515365195.8452851772] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1515365195.8453342915] /root/.oh-my-zsh/custom/themes/antigen.zsh:1487
+[WRN][1515365195.8453342915] Pre hook: antigen-bundle-cached https://github.com/denysdovhan/spaceship-zsh-theme spaceship --btype=theme
+[WRN][1515365195.8454256058] /root/.oh-my-zsh/custom/themes/antigen.zsh:1498
+[WRN][1515365195.8454256058] Replace hook: antigen-bundle-defer https://github.com/denysdovhan/spaceship-zsh-theme spaceship --btype=theme
+[WRN][1515365195.8454968929] /root/.oh-my-zsh/custom/themes/antigen.zsh:1500
+[WRN][1515365195.8454968929] antigen-bundle-defer shortcircuited
+[LOG][1515365195.8456094265] /root/.oh-my-zsh/custom/themes/antigen.zsh:1518
+[LOG][1515365195.8456094265] Return from hook antigen with 0
+[WRN][1515365505.4505717754] /root/.oh-my-zsh/custom/themes/antigen.zsh:266
+[WRN][1515365505.4505717754] -antigen-interactive-mode: toplevel:file:file:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[TRA][1515365505.4506382942] /root/.oh-my-zsh/custom/themes/antigen.zsh:475
+[TRA][1515365505.4506382942] Gonna create compdump file @ env-setup COMPDUMP
+[TRA][1515365505.4506382942] TRACE
+-antigen-env-setup
+/root/.oh-my-zsh/custom/themes/antigen.zsh
+/root/.zshrc
+[TRA][1515365505.5278484821] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515365505.5278484821] Called antigen-bundle with --loc=lib BUNDLE
+[TRA][1515365505.5278484821] TRACE
+antigen-bundle
+-antigen-use-oh-my-zsh
+antigen-use
+antigen
+/root/.zshrc
+[TRA][1515365505.5576286316] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515365505.5576286316] Called antigen-bundle with https://github.com/denysdovhan/spaceship-zsh-theme spaceship --btype=theme BUNDLE
+[TRA][1515365505.5576286316] TRACE
+antigen-bundle
+antigen-theme
+antigen
+/root/.zshrc
+[WRN][1515365668.0725460052] /root/.oh-my-zsh/custom/themes/antigen.zsh:266
+[WRN][1515365668.0725460052] -antigen-interactive-mode: toplevel:file:file:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[TRA][1515365668.0726320744] /root/.oh-my-zsh/custom/themes/antigen.zsh:475
+[TRA][1515365668.0726320744] Gonna create compdump file @ env-setup COMPDUMP
+[TRA][1515365668.0726320744] TRACE
+-antigen-env-setup
+/root/.oh-my-zsh/custom/themes/antigen.zsh
+/root/.zshrc
+[TRA][1515365668.1429085732] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515365668.1429085732] Called antigen-bundle with --loc=lib BUNDLE
+[TRA][1515365668.1429085732] TRACE
+antigen-bundle
+-antigen-use-oh-my-zsh
+antigen-use
+antigen
+/root/.zshrc
+[TRA][1515365668.1445324421] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515365668.1445324421] Called antigen-bundle with https://github.com/denysdovhan/spaceship-zsh-theme spaceship --btype=theme BUNDLE
+[TRA][1515365668.1445324421] TRACE
+antigen-bundle
+antigen-theme
+antigen
+/root/.zshrc
+[WRN][1515365690.8141653538] /root/.oh-my-zsh/custom/themes/antigen.zsh:266
+[WRN][1515365690.8141653538] -antigen-interactive-mode: toplevel:file:file:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[TRA][1515365690.8142507076] /root/.oh-my-zsh/custom/themes/antigen.zsh:475
+[TRA][1515365690.8142507076] Gonna create compdump file @ env-setup COMPDUMP
+[TRA][1515365690.8142507076] TRACE
+-antigen-env-setup
+/root/.oh-my-zsh/custom/themes/antigen.zsh
+/root/.zshrc
+[TRA][1515365690.8830432892] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515365690.8830432892] Called antigen-bundle with --loc=lib BUNDLE
+[TRA][1515365690.8830432892] TRACE
+antigen-bundle
+-antigen-use-oh-my-zsh
+antigen-use
+antigen
+/root/.zshrc
+[TRA][1515365690.9032471180] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515365690.9032471180] Called antigen-bundle with https://github.com/denysdovhan/spaceship-zsh-theme spaceship --btype=theme BUNDLE
+[TRA][1515365690.9032471180] TRACE
+antigen-bundle
+antigen-theme
+antigen
+/root/.zshrc
+[WRN][1515365709.3512001038] /root/.oh-my-zsh/custom/themes/antigen.zsh:266
+[WRN][1515365709.3512001038] -antigen-interactive-mode: toplevel:file:file:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[TRA][1515365709.3512866497] /root/.oh-my-zsh/custom/themes/antigen.zsh:475
+[TRA][1515365709.3512866497] Gonna create compdump file @ env-setup COMPDUMP
+[TRA][1515365709.3512866497] TRACE
+-antigen-env-setup
+/root/.oh-my-zsh/custom/themes/antigen.zsh
+/root/.zshrc
+[TRA][1515365709.4206700325] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515365709.4206700325] Called antigen-bundle with --loc=lib BUNDLE
+[TRA][1515365709.4206700325] TRACE
+antigen-bundle
+-antigen-use-oh-my-zsh
+antigen-use
+antigen
+/root/.zshrc
+[TRA][1515365709.4222874641] /root/.oh-my-zsh/custom/themes/antigen.zsh:808
+[TRA][1515365709.4222874641] Called antigen-bundle with https://github.com/denysdovhan/spaceship-zsh-theme spaceship --btype=theme BUNDLE
+[TRA][1515365709.4222874641] TRACE
+antigen-bundle
+antigen-theme
+antigen
+/root/.zshrc
+[WRN][1515365728.0925605297] /root/.oh-my-zsh/custom/themes/antigen.zsh:266
+[WRN][1515365728.0925605297] -antigen-interactive-mode: file:file:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[WRN][1515365728.0927455425] /root/.oh-my-zsh/custom/themes/antigen.zsh:1572
+[WRN][1515365728.0927455425] -antigen-lock-init return code was 0
+[LOG][1515365728.0928452015] /root/.oh-my-zsh/custom/themes/antigen.zsh:1574
+[LOG][1515365728.0928452015] LOADED EXTENSION lock EXT
+[WRN][1515365728.0940551758] /root/.oh-my-zsh/custom/themes/antigen.zsh:1684
+[WRN][1515365728.0940551758] Init parallel extension PARALLEL
+[WRN][1515365728.0941166878] /root/.oh-my-zsh/custom/themes/antigen.zsh:266
+[WRN][1515365728.0941166878] -antigen-interactive-mode: file:file:shfunc:shfunc:shfunc:eval:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[WRN][1515365728.0941762924] /root/.oh-my-zsh/custom/themes/antigen.zsh:1572
+[WRN][1515365728.0941762924] -antigen-parallel-init return code was 0
+[LOG][1515365728.0942132473] /root/.oh-my-zsh/custom/themes/antigen.zsh:1574
+[LOG][1515365728.0942132473] LOADED EXTENSION parallel EXT
+[WRN][1515365728.0942492485] /root/.oh-my-zsh/custom/themes/antigen.zsh:1692
+[WRN][1515365728.0942492485] Exec parallel extension PARALLEL
+[WRN][1515365728.0944516659] /root/.oh-my-zsh/custom/themes/antigen.zsh:266
+[WRN][1515365728.0944516659] -antigen-interactive-mode: file:file:shfunc:shfunc:shfunc:eval:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[WRN][1515365728.0945060253] /root/.oh-my-zsh/custom/themes/antigen.zsh:1572
+[WRN][1515365728.0945060253] -antigen-defer-init return code was 0
+[LOG][1515365728.0945415497] /root/.oh-my-zsh/custom/themes/antigen.zsh:1574
+[LOG][1515365728.0945415497] LOADED EXTENSION defer EXT
+[WRN][1515365728.0952720642] /root/.oh-my-zsh/custom/themes/antigen.zsh:266
+[WRN][1515365728.0952720642] -antigen-interactive-mode: file:file:shfunc:shfunc:shfunc:eval:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[WRN][1515365728.0954210758] /root/.oh-my-zsh/custom/themes/antigen.zsh:1572
+[WRN][1515365728.0954210758] -antigen-cache-init return code was 0
+[LOG][1515365728.0954587460] /root/.oh-my-zsh/custom/themes/antigen.zsh:1574
+[LOG][1515365728.0954587460] LOADED EXTENSION cache EXT
+[WRN][1515365728.1611578465] /root/.oh-my-zsh/custom/themes/antigen.zsh:1469
+[WRN][1515365728.1611578465] Updated meta: target antigen mode once type pre called 1
+[WRN][1515365728.1612448692] /root/.oh-my-zsh/custom/themes/antigen.zsh:1484
+[WRN][1515365728.1612448692] Processing hooks: antigen-lock
+[WRN][1515365728.1612935066] /root/.oh-my-zsh/custom/themes/antigen.zsh:1487
+[WRN][1515365728.1612935066] Pre hook: antigen-lock use oh-my-zsh
+[LOG][1515365728.1613404751] /root/.oh-my-zsh/custom/themes/antigen.zsh:4
+[LOG][1515365728.1613404751] antigen-lock called
+[WRN][1515365728.1614181995] /root/.oh-my-zsh/custom/themes/antigen.zsh:1489
+[WRN][1515365728.1614181995] antigen-lock shortcircuited
+[WRN][1515365728.1615536213] /root/.oh-my-zsh/custom/themes/antigen.zsh:1462
+[WRN][1515365728.1615536213] Ignoring hook due to mode once: antigen-lock
+[WRN][1515365728.1615970135] /root/.oh-my-zsh/custom/themes/antigen.zsh:1484
+[WRN][1515365728.1615970135] Processing hooks: antigen-lock
+[WRN][1515365728.1616523266] /root/.oh-my-zsh/custom/themes/antigen.zsh:1505
+[WRN][1515365728.1616523266] -antigen-hook-antigen theme https://github.com/denysdovhan/spaceship-zsh-theme spaceship
+[WRN][1515365728.1632442474] /root/.oh-my-zsh/custom/themes/antigen.zsh:1469
+[WRN][1515365728.1632442474] Updated meta: target antigen-bundle mode repeat type replace called 1
+[WRN][1515365728.1633498669] /root/.oh-my-zsh/custom/themes/antigen.zsh:1469
+[WRN][1515365728.1633498669] Updated meta: target antigen-bundle mode repeat type pre called 1
+[WRN][1515365728.1634097099] /root/.oh-my-zsh/custom/themes/antigen.zsh:1484
+[WRN][1515365728.1634097099] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1515365728.1634590626] /root/.oh-my-zsh/custom/themes/antigen.zsh:1487
+[WRN][1515365728.1634590626] Pre hook: antigen-bundle-cached https://github.com/denysdovhan/spaceship-zsh-theme spaceship --btype=theme
+[WRN][1515365728.1635422707] /root/.oh-my-zsh/custom/themes/antigen.zsh:1498
+[WRN][1515365728.1635422707] Replace hook: antigen-bundle-defer https://github.com/denysdovhan/spaceship-zsh-theme spaceship --btype=theme
+[WRN][1515365728.1636104584] /root/.oh-my-zsh/custom/themes/antigen.zsh:1500
+[WRN][1515365728.1636104584] antigen-bundle-defer shortcircuited
+[LOG][1515365728.1637282372] /root/.oh-my-zsh/custom/themes/antigen.zsh:1518
+[LOG][1515365728.1637282372] Return from hook antigen with 0
